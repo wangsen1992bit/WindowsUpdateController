@@ -1,0 +1,8 @@
+# build output
+dist/*.exe
+dist/*.pdb
+
+# editor / tooling leftovers
+.vs/
+*.user
+*.suo
